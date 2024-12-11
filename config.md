@@ -10,7 +10,7 @@ prepath = "math180"
 ignore = ["node_modules/"]
 
 generate_rss = true
-website_title = "math180"
+website_title = "MATH 180"
 website_descr = ""
 website_url   = "https://heygrey.dev/math180/"
 +++
