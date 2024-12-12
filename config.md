@@ -48,7 +48,7 @@ Add here global TeX commands to use throughout your pages.
 }
 
 \newcommand{\question}[2]{
-  @@theorem
+  @@question
   **Question** #1:
 
   #2
